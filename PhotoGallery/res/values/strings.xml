@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoGallery</string>
+    <string name="photos_label">Photos</string>
+    <string name="content_desc">Image</string>
+    <string name="date_string">Date</string>
+    <string name="loc_string">Location</string>
+
+</resources>
